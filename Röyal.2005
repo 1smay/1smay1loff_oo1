@@ -1,0 +1,7 @@
+echo "# 1smay1loff_oo1" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk commit" 
+git filialı -M main 
+git remote mənbə əlavə et https://github.com/1smay/1smay1loff_oo1.git
+ git push - u mənşəli əsas
